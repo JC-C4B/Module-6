@@ -17,3 +17,9 @@ Example:
 
 ![image](https://github.com/JC-C4B/Module-6/assets/136736016/64e8dba7-3cce-4e6f-b679-436c2d682e14)
 
+Usage:
+
+If you'd like to use the code from either project, you may do so by downloading the .java files found within the the 'src' folders in either project and running it in a java-based interpreter (I personally use the extensions found within Visual Studio code).
+
+you can find more information on the goal of this repository and it's contents in the [wiki](https://github.com/JC-C4B/Module-6/wiki)!
+
